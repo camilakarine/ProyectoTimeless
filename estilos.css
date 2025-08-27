@@ -83,7 +83,7 @@ h1 {
   margin-bottom: 20px;
 }
 .caja .text-content {
-  max-width: 500px; /* o prueba con 90% */
+  max-width: 400; 
   width: 90%; 
   margin: 0 auto;
   text-align: center;
@@ -111,6 +111,7 @@ h1 {
   display: block;
   background-color: #b1c8f7; 
 }
+
 
 
 
