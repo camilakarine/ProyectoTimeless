@@ -61,7 +61,7 @@ h1 {
 
 }
 .caja .titulos {
-  margin-bottom: 10;
+  margin-bottom: 20;
 }
 .columns {
   margin-bottom: 20px;
@@ -83,7 +83,8 @@ h1 {
   margin-bottom: 20px;
 }
 .caja .text-content {
-  max-width: 300px;
+  max-width: 500px; /* o prueba con 90% */
+  width: 90%; 
   margin: 0 auto;
   text-align: center;
 }
@@ -110,6 +111,7 @@ h1 {
   display: block;
   background-color: #b1c8f7; 
 }
+
 
 
 
