@@ -61,7 +61,7 @@ h1 {
 
 }
 .caja .titulos {
-  margin-bottom: 30;
+  margin-bottom: 10;
 }
 .columns {
   margin-bottom: 20px;
@@ -110,5 +110,6 @@ h1 {
   display: block;
   background-color: #b1c8f7; 
 }
+
 
 
