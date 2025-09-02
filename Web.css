@@ -41,7 +41,7 @@ body {
 
 h1 {
   color: #103a54;
-  font-family: Cambria;
+  font-family: 'Oswald', sans-serif;
   align-items: center;
   justify-content: center;
 }
@@ -53,5 +53,8 @@ h1 {
     width: 600px;
     margin: 0% auto;
   }
-  
+p{
+  font-family: 'Oswald', sans-serif;
+}    
+
 
