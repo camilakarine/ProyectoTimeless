@@ -43,13 +43,13 @@ header nav ul li a {
 }
 body {
   background-color:#b1c8f7;
-  font-family: "Comic Sans MS", cursive;
+  font-family: 'Oswald', sans-serif;
   background-image: #7e94c1;
 }
 
 h1 {
   color: #103a54;
-  font-family: Cambria;
+  font-family: 'Oswald', sans-serif;
   align-items: center;
   justify-content: center;
 }
@@ -83,4 +83,5 @@ h1 {
   object-fit: cover;  
   border-radius: 0;
   display: block;
+
 }
